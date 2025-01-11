@@ -1,6 +1,6 @@
 # ebook_com_IA_desafio_DIO
 
-No desafio utilizei o chatGPT juntamento o LeornadoAI, pois não consegui utilizar o midjourney na versão gratuita, porem resultado ficou legal!
+No desafio utilizei o chatGPT para criação do conteúdo juntamento o LeornadoAI pra criação da arte da capa, pois não consegui utilizar o midjourney na versão gratuita(como havia no curso), porem resultado ficou legal!
 
 Prompt utilizado no LeonardoAI:
 
